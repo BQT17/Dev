@@ -1,0 +1,19 @@
+h1 {
+    font-size: 400px;
+  }
+header {
+    background: #000000;
+    padding: 0 24px;
+    color: white; 
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background: #000000;
+    color: white; 
+    height: 100vh;
+  }
